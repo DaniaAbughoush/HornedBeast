@@ -32,7 +32,7 @@ class HornedBeasts extends React.Component{
             <Card.Title>{this.props.title} </Card.Title>
             <Card.Text>
               {this.props.description}<br></br>
-              {this.state.heart}{this.state.clickFav}click my horn🦄
+              {this.state.heart}{this.state.clickFav}click my horn!🦄
 
             </Card.Text>
 
