@@ -11,6 +11,7 @@ class App extends React.Component{
     return(
       <div>
         <Header/>
+         <p>hello</p>
         <Main/>
         <Footer/>
       </div>
